@@ -1,0 +1,4 @@
+Include src/Hog.h
+Include src/VLAT.h
+Include src/Camera.h
+Include src/Codebook.h
